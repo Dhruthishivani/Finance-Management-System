@@ -37,13 +37,13 @@ Message will pop up as "Budget Saved Successfully"
 Adjust the Alert me when budget reaches (%) to 70%
 Date: (choose date of November from the calendar)
 
-Amount:500
+Amount:500,
 Category:Bills
 
-Amount:400
+Amount:400,
 Category:Bills
 
-Amount:400
+Amount:400,
 Category:Bills
 
 Since the Alert me when budget reaches (%) is 70% , email notification will be received on reaching 3500rs. The same email notification can be received on other categories as well.
@@ -51,47 +51,47 @@ Since the Alert me when budget reaches (%) is 70% , email notification will be r
 **3) Adding values in Shopping category**
 
 
-Amount:400
+Amount:400,
 Category:Shopping
 
-Amount:899
+Amount:899,
 Category:Shopping
 
 
-Amount:2000
+Amount:2000,
 Category:Shopping
  
 **4) Adding values in Shopping Food**
 
-Amount:200
+Amount:200,
 Category:Food
 
-Amount:200
+Amount:200,
 Category:Food
 
-Amount:400
+Amount:400,
 Category:Food
 
 **5) Adding values in Entertainment category**
 
-Amount:400
+Amount:400,
 Category:Entertainment
 
-Amount:700
+Amount:700,
 Category:Entertainment
 
-Amount:350
+Amount:350,
 Category:Entertainment
 
 **6) Adding values in transport category**
 
-Amount:350
+Amount:350,
 Category:transport
 
-Amount:400
+Amount:400,
 Category:transport
 
-Amount:250
+Amount:250,
 Category:transport
 
 
@@ -101,9 +101,9 @@ The total amount spent, amount spent on each category and if the budget per cate
 
 **8) Select on the group expenses dropdown from the left and the Group Expense Sharing option will be available** 
 
-Create Group Name: "demo"
-Add Member Email: (add email) 
-Group ID: "123"
+Create Group Name: "demo",
+Add Member Email: (add email) ,
+Group ID: "123",
 Group Expense Amount:"1200"
 
 
