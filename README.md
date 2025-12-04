@@ -3,14 +3,23 @@
 **Functionalities included in the application**
 
 ● Users can log their daily expenses
+
 ● Expenses are categorized (e.g., "Food," "Transport," "Entertainment").
+
 ● Users can set monthly budgets for each category.
+
 ● The system alerts users if they exceed their budget for the category.
+
 ● Show Total spending per month
+
 ● Compare spending vs budget per category
+
 ● Allowing users to have different budgets for different months
+
 ● Custom alerts, example: alert user when only 10% budget is left
+
 ● Email notifications to user for alert
+
 ● Allowing users to share expenses, amongst a group
 
 **Steps to execute the project are as follows**
